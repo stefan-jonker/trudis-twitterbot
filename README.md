@@ -23,8 +23,8 @@ If that does not work, add:
 * * * * /full/path/to/main.sh &> /dev/null
 
 And create a __main.sh__ with the following contents:
-\#!/bin/bash
-\#!/usr/bin/ruby
-ruby /full/path/to/main.rb
+    \#!/bin/bash
+    \#!/usr/bin/ruby
+    ruby /full/path/to/main.rb
 
 *I need to get my RaspberryPi up and running again, soon.*
