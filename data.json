@@ -1,0 +1,100 @@
+[
+  { "time": "06:00", "value": "*Wakes up*" }
+  , { "time": "06:05", "value": "*Goes to litter box*" }
+  , { "time": "06:06", "value": "*Scratches in litter box*" }
+  , { "time": "06:07", "value": "*Uses litter box*" }
+  , { "time": "06:08", "value": "*Goes to carton box*" }
+  , { "time": "06:15", "value": "*Jumps on the bed*" }
+  , { "time": "06:16", "value": "*Kneads and gives head bops and kisses to @daddy*" }
+  , { "time": "06:17", "value": "*Kneads and gives kisses to mommy*" }
+  , { "time": "06:18", "value": "*Jumps from the bed to the television*" }
+  , { "time": "06:19", "value": "*Eats*" }
+  , { "time": "06:22", "value": "*Jumps from the television to the bed*" }
+  , { "time": "06:23", "value": "*Lays down on pillow*" }
+  , { "time": "06:25", "value": "*Gets hugged by mommy*" }
+  , { "time": "06:25", "value": "*Feels annoyed by the hugs*" }
+  , { "time": "06:27", "value": "*Meows and growls*" }
+  , { "time": "06:28", "value": "*Jumps down from the bed, goes into carton box*" }
+  , { "time": "06:29", "value": "*Walks to television*" }
+  , { "time": "06:30", "value": "*Jumps on television to eat*" }
+  , { "time": "06:30", "value": "*Jumps down*" }
+  , { "time": "06:30", "value": "*Walks through the open bedroom door*" }
+  , { "time": "06:31", "value": "*Goes downstairs*" }
+  , { "time": "06:31", "value": "*Lays down on the stairs*" }
+  , { "time": "06:31", "value": "*Watches perras horribles*" }
+  , { "time": "06:34", "value": "*Plays with Cereza*" }
+  , { "time": "06:35", "value": "*Runs up and down the stairs with Cereza*" }
+  , { "time": "06:40", "value": "*Goes into the bedroom*" }
+  , { "time": "06:59", "value": "*Walks through the open bedroom door*" }
+  , { "time": "07:01", "value": "*Goes downstairs*" }
+  , { "time": "07:02", "value": "*Lays down on the chair*" }
+  , { "time": "07:15", "value": "*Talks with grandpa*" }
+  , { "time": "07:18", "value": "*Goes upstairs*" }
+  , { "time": "07:19", "value": "*Walks into bedroom*" }
+  , { "time": "07:20", "value": "*Jumps on television to eat*" }
+  , { "time": "07:22", "value": "*Jumps down*" }
+  , { "time": "07:23", "value": "*Goes to litter box*" }
+  , { "time": "07:24", "value": "*Scratches in litter box*" }
+  , { "time": "07:25", "value": "*Uses litter box*" }
+  , { "time": "07:26", "value": "*Scratches in litter box*" }
+  , { "time": "07:26", "value": "*Jumps on bed*" }
+  , { "time": "07:26", "value": "*Lays down on the bed*" }
+  , { "time": "08:01", "value": "*Sleeps*" }
+  , { "time": "12:13", "value": "*Wakes up*" }
+  , { "time": "12:20", "value": "*Jumps on television to eat*" }
+  , { "time": "12:23", "value": "*Sitting on the television*" }
+  , { "time": "12:30", "value": "*Jumps on bed*" }
+  , { "time": "12:31", "value": "*Jumps on suitcase*" }
+  , { "time": "12:32", "value": "*Stares through the window*" }
+  , { "time": "12:33", "value": "*Falls asleep*" }
+  , { "time": "18:01", "value": "*Wakes up*" }
+  , { "time": "18:02", "value": "*Jumps down*" }
+  , { "time": "18:02", "value": "*Drinks water*" }
+  , { "time": "18:03", "value": "*Jumps on suitcase*" }
+  , { "time": "18:07", "value": "*Prrr*" }
+  , { "time": "19:18", "value": "*Wakes up*" }
+  , { "time": "19:18", "value": "*Hears barking by perras horribles*" }
+  , { "time": "19:19", "value": "*Looks through the window*" }
+  , { "time": "19:19", "value": "*Sees @daddy and mommy*" }
+  , { "time": "19:20", "value": "*Meows from bedroom to @daddy and mommy*" }
+  , { "time": "19:20", "value": "*Jumps from the suitcase*" }
+  , { "time": "19:20", "value": "*Walks through the open bedroom door*" }
+  , { "time": "19:21", "value": "*Goes downstairs*" }
+  , { "time": "19:21", "value": "*Walks to the front door*" }
+  , { "time": "19:21", "value": "*Waits*" }
+  , { "time": "19:21", "value": "*Walks with mommy upstairs*" }
+  , { "time": "19:21", "value": "*Meows to mommy*" }
+  , { "time": "19:22", "value": "*Gets pet*" }
+  , { "time": "19:22", "value": "*Gives head bops and kisses to mommy*" }
+  , { "time": "19:25", "value": "*Goes downstairs" }
+  , { "time": "19:25", "value": "*Lays down on the stairs*" }
+  , { "time": "19:37", "value": "*Tries to scratch any dog or cat that wants to pass by*" }
+  , { "time": "19:40", "value": "*Meows angrily at Peke*" }
+  , { "time": "19:58", "value": "*Walks along with @daddy upstairs*" }
+  , { "time": "20:10", "value": "*Goes to litter box*" }
+  , { "time": "20:11", "value": "*Scratches in litter box*" }
+  , { "time": "20:12", "value": "*Uses litter box*" }
+  , { "time": "20:13", "value": "*Scratches in litter box*" }
+  , { "time": "20:14", "value": "*Notices mommy looks horrified at me*" }
+  , { "time": "20:15", "value": "*@daddy Cleans litter box*" }
+  , { "time": "20:16", "value": "*Jumps on bed*" }
+  , { "time": "20:18", "value": "*Gives mommy a few kisses*" }
+  , { "time": "20:19", "value": "*Gets hugged by mommy*" }
+  , { "time": "20:21", "value": "*Moves tail" }
+  , { "time": "20:22", "value": "*Meows angrily" }
+  , { "time": "20:24", "value": "*Runs to end of the bed" }
+  , { "time": "20:25", "value": "*Jumps on television" }
+  , { "time": "20:25", "value": "*Eats" }
+  , { "time": "20:26", "value": "*Watches @to_valo from the television" }
+  , { "time": "20:55", "value": "*Jumps down" }
+  , { "time": "21:05", "value": "*Scratches in litter box*" }
+  , { "time": "21:06", "value": "*Uses litter box*" }
+  , { "time": "21:07", "value": "*Scratches in litter box*" }
+  , { "time": "21:15", "value": "*Goes to carton box*" }
+  , { "time": "21:18", "value": "*Plans world domination*" }
+  , { "time": "21:45", "value": "*Looks at mommy*" }
+  , { "time": "21:50", "value": "*Plans world domination*" }
+  , { "time": "22:05", "value": "*Drink water*" }
+  , { "time": "22:19", "value": "*Looks at the ceiling*" }
+  , { "time": "23:00", "value": "*Jumps on the bed and gives mommy a kiss*" }
+]
